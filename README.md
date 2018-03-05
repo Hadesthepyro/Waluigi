@@ -1,0 +1,2 @@
+# Waluigi
+Waluigi Discord bot
